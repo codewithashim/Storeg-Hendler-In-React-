@@ -1,0 +1,14 @@
+.products {
+    border: 2px solid indianred;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 0.5rem;
+    text-align: left;
+}
+
+button {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    font-size: 1.1rem;
+    font-weight: bold;
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Alta",
+    "price": 152
+  },
+  {
+    "id": 2,
+    "name": "Nupur",
+    "price": 122
+  },
+  {
+    "id": 3,
+    "name": "Sidur",
+    "price": 80
+  },
+  {
+    "id": 4,
+    "name": "Curi",
+    "price": 250
+  },
+  {
+    "id": 5,
+    "name": "Nilspolis",
+    "price": 52
+  },
+  {
+    "id": 6,
+    "name": "Eaybrues",
+    "price": 152
+  }
+]
